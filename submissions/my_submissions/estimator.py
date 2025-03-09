@@ -69,7 +69,6 @@ def get_estimator():
     """
     pipeline = make_pipeline(
         SimpleImputer(strategy='median'),
-        StandardScaler(),
         XGBRankerWrapper(n_estimators=100, learning_rate=0.1, max_depth=3, random_state=42)
     )
     return pipeline

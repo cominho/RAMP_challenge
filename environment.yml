@@ -1,4 +1,4 @@
-name: ramp-variable-stars
+name: ramp-stock-ranking-prediction
 channels:
   - defaults
 dependencies:

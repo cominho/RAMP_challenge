@@ -2,9 +2,11 @@
 
 [![Build Status](https://travis-ci.org/ramp-kits/variable_stars.svg?branch=master)](https://travis-ci.org/ramp-kits/variable_stars)
 
-ADD Presentation
+This challenge is based on a dataset available on Kaggle, described in detail in the following link : https://www.kaggle.com/datasets/debashis74017/nifty-50-minute-data. The dataset provides minute-by-minute information on NIFTY 50 assets.
+The task is to build a model that can rank these assets based on their returns using advanced machine learning techniques. By predicting returns accurately, the model aims to identify the most promising assets for investment.
+This challenge is interesting because accurate asset ranking can help investors make informed decisions and better manage risks in volatile financial markets.
+The repository includes a data science pipeline as a baseline, with a custom NDCG scoring function for evaluating rankings. 
 
-The challenge in this RAMP is to design an algorithm to automatically classify variable stars from light curves.
 
 ## Getting started
 

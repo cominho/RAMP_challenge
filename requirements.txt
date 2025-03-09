@@ -1,0 +1,17 @@
+pandas
+numpy
+plotly
+tqdm
+statsmodels
+scikit-learn
+matplotlib 
+torch 
+ipywidgets 
+jupyterlab-widgets 
+widgetsnbextension 
+seaborn 
+hurst 
+openpyxl  
+pyarrow 
+nbformat 
+hyperopt

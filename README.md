@@ -1,4 +1,4 @@
-# RAMP starting kit on prediction of stock ranking
+# RAMP starting kit on prediction of stock returns ranking
 
 [![Build Status](https://travis-ci.org/ramp-kits/variable_stars.svg?branch=master)](https://travis-ci.org/ramp-kits/variable_stars)
 
